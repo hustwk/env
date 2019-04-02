@@ -1,0 +1,1 @@
+find -f .|grep .java|xargs enca -x utf-8
